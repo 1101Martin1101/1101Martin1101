@@ -6,3 +6,7 @@ AboutMe
 -  <img align="left" alt="Instagram" width="20px" src="https://cdn.discordapp.com/emojis/1080528469668151389.webp?size=128&quality=lossless"/> Instagram: [kulihrasek1101](https://www.instagram.com/kulihrasek1101/) 
 - <img align="left" alt="Twitter" width="20px" src="https://cdn.discordapp.com/emojis/1080527623022714971.webp?size=128&quality=lossless"/> Twitter: [@Martin_1101_](https://twitter.com/Martin_1101_)
 
+### ✨ What do I enjoy?
+- 💻 Technology 
+- 📺 various movies and series
+- ⚡ Electrician
