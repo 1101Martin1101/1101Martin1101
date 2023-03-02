@@ -21,8 +21,8 @@
 - <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1080973429433442314.webp?size=128&quality=lossless"/>[Colorful madness](http://colorful-madness.4fan.cz)
 - <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1080973433090871347.webp?size=128&quality=lossless"/> [Apple click](https://apple-click.4fan.cz)
 
-↑  ↑  ↑
-Each of these games is featured with a YouTube video, so it's possible you've seen it somewhere before.
+ # ↑  ↑  ↑
+  Each of these games is featured with a YouTube video, so it's possible you've seen it somewhere before.
  
 <p align="center"> 
   Visitor count<br>
