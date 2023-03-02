@@ -15,3 +15,9 @@
 - 👋Hello, my name is Martin and I am 16 years old.
 - 👨‍💻I can't play very well, it's just my hobby.
 - 🤐 all
+
+ 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/1101Martin1101/count.svg" />
+</p>
