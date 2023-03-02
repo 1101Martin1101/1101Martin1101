@@ -16,6 +16,10 @@
 - 👨‍💻I can't play very well, it's just my hobby.
 - 🤐 all
 
+## 🎮 Web game
+- <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1080973431681585253.webp?size=128&quality=lossless"/> [T-rex](http://t-rex-game.4fan.cz)
+- <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1080973429433442314.webp?size=128&quality=lossless"/>[Colorful madness](http://colorful-madness.4fan.cz)
+- <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1080973433090871347.webp?size=128&quality=lossless"/> [Apple click](https://apple-click.4fan.cz)
  
 <p align="center"> 
   Visitor count<br>
