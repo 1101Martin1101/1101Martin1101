@@ -16,7 +16,7 @@
 - 👨‍💻I can't play very well, it's just my hobby.
 - 🤐 all
 ## 🚧 Project
-- <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1081272121088549036.webp?size=128&quality=lossless"/>[Web Game launcher](https://game-launcher.4fan.cz)
+- <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1081272121088549036.webp?size=128&quality=lossless"/>[Web Game launcher](https://game-launcher.4fan.cz) (🛑Work only in Pc)
 
 ## 🎮 Web game
 - <img align="left" alt="apple" width="20px" src="https://cdn.discordapp.com/emojis/1080973431681585253.webp?size=128&quality=lossless"/> [T-rex](https://t-rex-game.4fan.cz)
