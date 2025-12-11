@@ -13,4 +13,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1101Martin1101&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1101Martin1101&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br><p align="center"> <br>  Visitor count<br><br>  ![](https://komarev.com/ghpvc/?username=1101Martin1101&color=green)" /><br></p><br>
+<br><p align="center"> <br>  Visitor count<br><br>  ![](https://komarev.com/ghpvc/?username=1101Martin1101&color=green)" <br></p><br>
